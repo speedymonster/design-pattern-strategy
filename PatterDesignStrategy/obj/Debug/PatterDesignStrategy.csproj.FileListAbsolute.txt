@@ -1,0 +1,6 @@
+c:\users\rausanchez\documents\visual studio 2013\Projects\PatterDesignStrategy\PatterDesignStrategy\bin\Debug\PatterDesignStrategy.exe.config
+c:\users\rausanchez\documents\visual studio 2013\Projects\PatterDesignStrategy\PatterDesignStrategy\obj\Debug\PatterDesignStrategy.csprojResolveAssemblyReference.cache
+c:\users\rausanchez\documents\visual studio 2013\Projects\PatterDesignStrategy\PatterDesignStrategy\bin\Debug\PatterDesignStrategy.exe
+c:\users\rausanchez\documents\visual studio 2013\Projects\PatterDesignStrategy\PatterDesignStrategy\bin\Debug\PatterDesignStrategy.pdb
+c:\users\rausanchez\documents\visual studio 2013\Projects\PatterDesignStrategy\PatterDesignStrategy\obj\Debug\PatterDesignStrategy.exe
+c:\users\rausanchez\documents\visual studio 2013\Projects\PatterDesignStrategy\PatterDesignStrategy\obj\Debug\PatterDesignStrategy.pdb
